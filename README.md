@@ -1,5 +1,5 @@
 # 🧭 ĐẠI THUẬT LA KINH PHONG THỦY TỐI THƯỢNG
-
+![app](icon-512.png)
 > **Hệ thống Nhất Thể Đa Tầng lọc khí trường qua 3 màng lọc toán pháp từ Vĩ mô đến Vi cục (Bát Trạch 45° ➔ 24 Sơn 15° ➔ 72 Hậu 5°).**
 
 Ứng dụng PWA (Progressive Web App) hỗ trợ đo đạc, tính toán và thẩm thấu từng văn bản rung động vi mô của long mạch, tự động phân tích và tối ưu hóa phương vị toàn diện chuẩn sát theo dòng chảy năng lượng của **Huyền Không Đại Vận 9 (2024 - 2043)**.
@@ -73,3 +73,4 @@ $$PT = [ ( BT_{Gốc} + \Delta H_{72} ) \times K_{Van} - \Sigma\Psi_{Sat} ] \tim
 * **Bản quyền hệ thống:** Thái Thông
 * **Hòm thư tiếp nhận hồ sơ:** [ThaiThongsj@gmail.com](mailto:ThaiThongsj@gmail.com)
 * **Kênh đóng góp duy trì dự án:** `9898661918` • **Vietcombank** (NGUYEN NGOC THAI THONG)
+![app](ungho.png)
