@@ -70,7 +70,10 @@ $$PT = [ ( BT_{Gốc} + \Delta H_{72} ) \times K_{Van} - \Sigma\Psi_{Sat} ] \tim
 ---
 
 ### 📬 LIÊN HỆ & ỦNG HỘ DỰ ÁN
+
+![app](ungho.png)
+
 * **Bản quyền hệ thống:** Thái Thông
 * **Hòm thư tiếp nhận hồ sơ:** [ThaiThongsj@gmail.com](mailto:ThaiThongsj@gmail.com)
 * **Kênh đóng góp duy trì dự án:** `9898661918` • **Vietcombank** (NGUYEN NGOC THAI THONG)
-![app](ungho.png)
+
