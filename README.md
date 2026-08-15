@@ -1,11 +1,16 @@
 # 🧭 ĐẠI THUẬT LA KINH PHONG THỦY TỐI THƯỢNG
 ---
-https://kcydvn-a11y.github.io/LaBanPhongThuy/
+
 ![app](icon-512.png)
 > **Hệ thống Nhất Thể Đa Tầng lọc khí trường qua 3 màng lọc toán pháp từ Vĩ mô đến Vi cục (Bát Trạch 45° ➔ 24 Sơn 15° ➔ 72 Hậu 5°).**
 
 Ứng dụng PWA (Progressive Web App) hỗ trợ đo đạc, tính toán và thẩm thấu từng văn bản rung động vi mô của long mạch, tự động phân tích và tối ưu hóa phương vị toàn diện chuẩn sát theo dòng chảy năng lượng của **Huyền Không Đại Vận 9 (2024 - 2043)**.
 
+---
+### 🎥 **Demo trên YouTube**
+[![Watch Demo](https://img.shields.io/badge/Watch_Demo_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=d_Aq8YPlpXs)
+
+https://kcydvn-a11y.github.io/LaBanPhongThuy/
 ---
 
 ## 🔮 TÍNH NĂNG CỐT LÕI
